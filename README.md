@@ -5,7 +5,7 @@ Primeiro site desenvolvido do 0 sem ajuda
 </p>
 
 <p align="center">
-  <a href="https://human-potential.vercel.app/" > Veja como Ficou</a>
+  <a href="https://card-nft-blush.vercel.app/" > Veja como Ficou</a>
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@ Primeiro site desenvolvido do 0 sem ajuda
 <br>
 
 <p align="center">
-  <img alt="desktop design" src=".design/desktop-design.jpg" width="30%">
-  <img alt="mobile design" src=".design/mobile-design.jpg" width="50%">
+  <img alt="desktop design" src="design/desktop-design.jpg" width="50%">
+  <img alt="mobile design" src="design/mobile-design.jpg" width="30%">
   
   
 </p>
@@ -29,10 +29,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O human potential é um projeto desenvolvido como forma de aprendizagem para revisar conceitos de HTML E CSS. Esse projeto teve como base de design um dos desavios do front end mentor.
+O CardNFT é mais um projeto para o desenvolvimento do HTML e CSS, sempre procurando explorar o conceito de display-flex para fixar o conceito, o site é completamente resposivel.
 
 
-Esse projeto está sob a licença MIT.
 
 
 ---

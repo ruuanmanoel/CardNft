@@ -1,0 +1,102 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(13,26,45);
+}
+
+#principal{
+    width: 90%;
+    min-width: 280px;
+    background-color: rgb(21,39,63);
+    color: #fff;
+    margin: 2rem auto;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.image{
+    position: relative;
+    
+}
+.image:hover{
+    background-image: ('../images/icon-view.svg');
+
+}
+
+
+.image:hover a svg{
+    visibility: visible;
+    opacity: 1;
+    transition: 1s;
+}
+a {
+    color: #fff ;
+    text-decoration: none;
+}
+a:hover{
+    color:  rgb(72, 218, 226);
+}
+a:hover img{
+    background-color:  rgb(72, 218, 226);
+}
+#principal a>img{
+    width: 100%;
+    display: block;
+    margin-inline: auto;
+    margin-block: 1.1rem ;
+}
+#principal h3{
+    margin-block: 2rem;
+    font-size: 2rem;
+}
+
+#principal p{
+    color: rgb(124, 148, 179);
+    font-size: 1.5rem;
+    margin-block: 2rem;
+}
+
+.dados{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1.3rem;
+    font-weight: bold;
+
+  
+}
+.item1{
+    flex: 1;
+    margin-right: .6rem;
+    color: rgb(72, 218, 226);
+}
+.item2{
+    flex-direction: row-reverse;
+    margin-left:.6rem;
+    color: rgb(124, 148, 179);
+}
+img.item1 {
+    max-width: 12px;
+   
+}
+hr{
+    height: 1px;
+    border-color: #6b809e;
+}
+.criador{
+    display: inline-flex;
+    align-items: center;
+}
+.criador img{
+    max-width: 1.6rem;
+    margin-right: .8rem;
+}
+.creation{
+    color: rgb(124, 148, 179);
+    margin-right: .4rem;
+}

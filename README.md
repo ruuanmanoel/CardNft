@@ -1,8 +1,5 @@
-<h1 align="center"> Human Potential</h1>
+<h1 align="center">CardNFT</h1>
 
-<p align="center">
-Primeiro site desenvolvido do 0 sem ajuda
-</p>
 
 <p align="center">
   <a href="https://card-nft-blush.vercel.app/" > Veja como Ficou</a>
